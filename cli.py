@@ -1,3 +1,5 @@
+# to start the application - python3 cli.py
+
 from movies import MovieDB, UserDB
 
 def main_menu():

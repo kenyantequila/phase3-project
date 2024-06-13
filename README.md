@@ -20,6 +20,9 @@ This project provides a simple command-line interface (CLI) application for mana
 
 ## Installation Requirements
 Git.
+python3 installed
+sqlite installed
+
 
 ### Installation instruction
 ```

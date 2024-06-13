@@ -1,3 +1,4 @@
+# to start the application - python3 cli.py
 import sqlite3
 
 class MovieDB:
